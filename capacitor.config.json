@@ -1,0 +1,9 @@
+{
+  "appId": "com.muallimai.app",
+  "appName": "Muallim AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
